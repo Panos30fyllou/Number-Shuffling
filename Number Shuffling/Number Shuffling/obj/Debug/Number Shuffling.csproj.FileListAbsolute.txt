@@ -1,0 +1,10 @@
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\bin\Debug\Number Shuffling.exe.config
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\bin\Debug\Number Shuffling.exe
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\bin\Debug\Number Shuffling.pdb
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\obj\Debug\Number Shuffling.csprojAssemblyReference.cache
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\obj\Debug\Number_Shuffling.Form1.resources
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\obj\Debug\Number_Shuffling.Properties.Resources.resources
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\obj\Debug\Number Shuffling.csproj.GenerateResource.cache
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\obj\Debug\Number Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\obj\Debug\Number Shuffling.exe
+C:\Users\Kingpin\source\repos\Number Shuffling\Number Shuffling\obj\Debug\Number Shuffling.pdb
